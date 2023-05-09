@@ -25,7 +25,7 @@
 <b>Gender:</b> he/him/Male ♂️
 </li>
 <li>
-<b>Spotify:</b> https://open.spotify.com/user/0mwjs7fi0q4ptulexer2tu9ad
+<b>Youtube:</b> https://youtube.com/@InformasiKomik
 </li>
 <li>
 <b>Hobbys:</b> Graphic Design, Web Development, Reading manga books
