@@ -7,7 +7,7 @@
   
 </div>
     <div align="center">
-<img src="https://giphy.com/gifs/smoking-cowboy-bebop-4ilFRqgbzbx4c">
+<img src="https://imgur.com/t/anime_gifs/RplloVE">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
