@@ -7,7 +7,7 @@
   
 </div>
     <div align="center">
-<img src="https://lh3.googleusercontent.com/proxy/NfXRw0oSrV0qOvHayQoLXyMP4RI-kKo58BBDbhMogN3Kr9pwQZW66kJ3Sxq6-SkloFFLUdyAgRPP3wE535jn7_gs2a3hGmGzNJYbu0YmAHtxfo3FMhJYmA=w1200-h630-p-k-no-nu">
+<img src="https://lh6.googleusercontent.com/proxy/9dTzaZxIO-cHswOMpoqia7Za5gRVCTYmeHCQzBCtOvlQzdFvq0Bsg_IP8wwnZeXv-FYutsJ7DZt0DdEOPxYWo6LEayThdyRvbltx6uI=w1200-h630-p-k-no-nu">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
