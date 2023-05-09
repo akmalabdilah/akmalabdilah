@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ ✨ Welcome To Github My Profile ✨ ~</h1>
+<h1 align="center"> Welcome To Github My Profile </h1>
 <div align="center">
   
 <p><a href="https://www.youtube.com/watch?v=oJm44VRp6zQ">- Wind (Angin)</a><p>
@@ -10,7 +10,7 @@
 <img src="https://media.istockphoto.com/photos/hacker-standing-alone-in-dark-room-picture-id639282412?k=6&m=639282412&s=612x612&w=0&h=CR1srHcR6N4hJwTLN9Qz1a63NOPS5cAMHT4hvGxkcyY=">
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <br>
 <li>
  <b>Name:</b> M. AKMAL AL ABDILAH</li>
@@ -29,7 +29,7 @@
 <br>
 </div>
 <div>
-<h2 align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
  <br>
 <p>
 </div>
@@ -40,7 +40,7 @@
 Saya juga suka Membaca dan Menonton anime sampai berjam-jam, saya juga suka dengan pemograman terutama web dan sedang mempelajari berbagai bahasa pemograman menggunakan Visual Studio Code dan Youtube.
 </p>
 <br>
-<h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">  𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2>
 <br>
 <p align="center">Here are some of my <br>
   most used social things >~< xoxoxo</p>
@@ -48,7 +48,7 @@ Saya juga suka Membaca dan Menonton anime sampai berjam-jam, saya juga suka deng
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! </h2>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif">
 </div>
