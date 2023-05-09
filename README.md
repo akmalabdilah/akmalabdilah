@@ -3,11 +3,11 @@
 <h1 align="center">~ ✨ Welcome To Github My Profile ✨ ~</h1>
 <div align="center">
   
-<p><a href="https://www.youtube.com/watch?v=dlFA0Zq1k2A">- 𝒦𝒶𝓃𝒶-𝐵𝑜𝑜𝓃 (𝒮𝒾𝓁𝒽𝑜𝓊𝑒𝓉𝓉𝑒)</a><p>
+<p><a href="https://www.youtube.com/watch?v=oJm44VRp6zQ">- Wind (Angin)</a><p>
   
 </div>
     <div align="center">
-<img src="https://imgur.com/ex9LodI">
+<img src="https://i.imgur.com/jx17oHT.gif">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
