@@ -7,7 +7,7 @@
   
 </div>
     <div align="center">
-<img src="https://fsa.zobj.net/crop.php?r=yGP1bKSYpQlSwayGr4jeEIVRsQU98mqL6Cm_pVRuR3HcK9h2uVEc7OXM7kPy6zbYGEG-EomjG2o4q2xyYD6sN0RuX5lBTn_k7yddVLER6wPNtBR3WpmT3g8X0pNWGeeg_vlHlDH9vUj5656j">
+<img src="https://media.istockphoto.com/photos/hacker-standing-alone-in-dark-room-picture-id639282412?k=6&m=639282412&s=612x612&w=0&h=CR1srHcR6N4hJwTLN9Qz1a63NOPS5cAMHT4hvGxkcyY=">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
