@@ -7,7 +7,7 @@
   
 </div>
     <div align="center">
-<img src="https://imgur.com/t/anime_gifs/RplloVE">
+<img src="https://imgur.com/ex9LodI">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
