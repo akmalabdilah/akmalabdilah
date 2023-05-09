@@ -7,7 +7,7 @@
   
 </div>
     <div align="center">
-<img src="https://lh6.googleusercontent.com/proxy/9dTzaZxIO-cHswOMpoqia7Za5gRVCTYmeHCQzBCtOvlQzdFvq0Bsg_IP8wwnZeXv-FYutsJ7DZt0DdEOPxYWo6LEayThdyRvbltx6uI=w1200-h630-p-k-no-nu">
+<img src="https://giphy.com/gifs/one-piece-tree-vLHynklJuVV1C">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
