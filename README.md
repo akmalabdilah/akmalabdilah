@@ -48,7 +48,7 @@ Saya juga suka Membaca dan Menonton anime sampai berjam-jam, saya juga suka deng
 <br>
 <p align="center">Here are some of my <br>
   most used social things >~< xoxoxo</p>
-<p align="center"><a href="https://www.instagram.com/bilalhafidz_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.com/users/532395008196739088" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://instagram.com/m.akmal_al_abdilah?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.com/users/532395008196739088" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
