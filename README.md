@@ -2,11 +2,7 @@
   <center>
 <h1 align="center">~ ✨ Welcome To Github My Profile ✨ ~</h1>
 <div align="center">
-  <p>𝐼𝓈𝓈𝑒 𝓃𝑜 𝓈𝑒</p>
-  <p>𝒹𝑒 𝒻𝓊𝓂𝒾𝓀𝑜𝓂𝓊 𝑔𝑜𝑜𝓇𝒶𝒾𝓃</p>
-  <p>𝒷𝑜𝓀𝓊𝓇𝒶 𝓌𝒶</p>
-  <p>𝒩𝒶𝓃𝒾𝓂𝑜 𝓃𝒶𝓃𝒾𝓂𝑜</p>
-  <p>𝓂𝒶𝒹𝒶 𝓈𝒽𝒾𝓇𝒶𝓃𝓊</p>
+  
 <p><a href="https://www.youtube.com/watch?v=dlFA0Zq1k2A">- 𝒦𝒶𝓃𝒶-𝐵𝑜𝑜𝓃 (𝒮𝒾𝓁𝒽𝑜𝓊𝑒𝓉𝓉𝑒)</a><p>
   
 </div>
@@ -48,7 +44,7 @@ Saya juga suka Membaca dan Menonton anime sampai berjam-jam, saya juga suka deng
 <br>
 <p align="center">Here are some of my <br>
   most used social things >~< xoxoxo</p>
-<p align="center"><a href="https://instagram.com/m.akmal_al_abdilah?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.com/users/532395008196739088" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://instagram.com/m.akmal_al_abdilah?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a></a></p>
 </div>
 <br>
 <div>
