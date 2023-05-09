@@ -2,7 +2,11 @@
   <center>
 <h1 align="center">~ ✨ Welcome To Github My Profile ✨ ~</h1>
 <div align="center">
-  
+  <p>𝐼𝓈𝓈𝑒 𝓃𝑜 𝓈𝑒</p>
+  <p>𝒹𝑒 𝒻𝓊𝓂𝒾𝓀𝑜𝓂𝓊 𝑔𝑜𝑜𝓇𝒶𝒾𝓃</p>
+  <p>𝒷𝑜𝓀𝓊𝓇𝒶 𝓌𝒶</p>
+  <p>𝒩𝒶𝓃𝒾𝓂𝑜 𝓃𝒶𝓃𝒾𝓂𝑜</p>
+  <p>𝓂𝒶𝒹𝒶 𝓈𝒽𝒾𝓇𝒶𝓃𝓊</p>
 <p><a href="https://www.youtube.com/watch?v=dlFA0Zq1k2A">- 𝒦𝒶𝓃𝒶-𝐵𝑜𝑜𝓃 (𝒮𝒾𝓁𝒽𝑜𝓊𝑒𝓉𝓉𝑒)</a><p>
   
 </div>
@@ -36,7 +40,7 @@
 <div>
   <br>
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 Saya juga suka Membaca dan Menonton anime sampai berjam-jam, saya juga suka dengan pemograman terutama web dan sedang mempelajari berbagai bahasa pemograman menggunakan Visual Studio Code dan Youtube.
 </p>
 <br>
