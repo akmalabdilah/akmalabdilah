@@ -21,7 +21,7 @@
 <b>Gender:</b> he/him/Male ♂️
 </li>
 <li>
-<b>Youtube:</b> [https://youtube.com/@InformasiKomik](https://www.youtube.com/c/InformasiKomik)
+<b>Youtube:</b> https://www.youtube.com/@Panggil_AKMAL
 </li>
 <li>
 <b>Hobbys:</b> Graphic Design, Web Development, Reading manga books
