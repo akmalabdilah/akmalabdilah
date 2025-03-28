@@ -15,7 +15,7 @@
 <li>
  <b>Name:</b> M. AKMAL AL ABDILAH</li>
 <li>
-<b>Loves:</b> Anime, Manga, Manhua, Manhwa, Pemograman
+<b>Loves:</b> Anime, Manga, Manhua, Manhwa, Pemograman, and Modder.
 </li>
 <li>
 <b>Gender:</b> he/him/Male ♂️
@@ -24,7 +24,7 @@
 <b>Youtube:</b> https://www.youtube.com/@Panggil_AKMAL
 </li>
 <li>
-<b>Hobbys:</b> Graphic Design, Web Development, Reading manga books
+<b>Hobbys:</b> Graphic Design, Web Development, Reading manga books, and Modder.
 </li>
 <br>
 </div>
