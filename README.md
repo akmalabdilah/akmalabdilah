@@ -1,66 +1,100 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/af/8d/38/af8d3882a20c325da726487e9140df98.gif" width="100%" height="150px" style="object-fit: cover;">
+</div>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
+<br>
 
-  <h1 align="center">Selamat Datang di Profil Github Saya</h1>
+<div>
+  <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Art Coding">
 
-  <a href="https://www.youtube.com/watch?v=oJm44VRp6zQ">
-    <img src="https://img.shields.io/badge/Now%20Playing-Wind%20(Angin)-ff69b4?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-
-  <br><br>
-
-  <img src="https://media.giphy.com/media/kBxfC2J4d8u60H2q9A/giphy.gif" width="400">
-
-  <br><br>
-
-  <h2>👾 Tentang Saya</h2>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+    Hi, I'm Akmal!
+  </h1>
   
-  <div align="left">
-    <ul>
-      <li><b>Nama:</b> M. AKMAL AL ABDILAH</li>
-      <li><b>Favorit:</b> Anime, Manga, Manhua, Manhwa, Pemrograman, dan Modder.</li>
-      <li><b>Jenis Kelamin:</b> Laki-laki (He/Him) ♂️</li>
-      <li><b>Youtube:</b> <a href="https://www.youtube.com/@Panggil_AKMAL">@Panggil_AKMAL</a></li>
-      <li><b>Hobi:</b> Desain Grafis, Pengembangan Web, Membaca Manga, dan Modder.</li>
-    </ul>
-  </div>
+  <h3><i>Game Developer & Web Enthusiast</i></h3>
 
-  <br>
-
-  <h2>🛠️ Keahlian & Pengetahuan</h2>
-
-  <p>
-    Saya juga suka membaca dan menonton anime sampai berjam-jam. Saya menyukai pemrograman terutama web dan sedang mempelajari berbagai bahasa pemrograman menggunakan Visual Studio Code dan Youtube.
+  <p align="left">
+    Saya adalah seorang pengembang Game dan Web yang memiliki minat besar pada dunia <b>Modding</b>, <b>Anime</b>, dan <b>Pemrograman</b>. Saya suka menciptakan sesuatu yang baru dari kode dan piksel.
   </p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <ul>
+    <li>🕹️ <b>Fokus Utama:</b> Game Development & Modding.</li>
+    <li>🌱 <b>Sedang Belajar:</b> Memperdalam Python, Web Dev, dan Logika Game.</li>
+    <li>🔭 <b>Hobi:</b> Menonton Anime, Membaca Manga/Manhwa, dan Desain Grafis.</li>
+    <li>🎧 <b>Musik:</b> <a href="https://www.youtube.com/watch?v=oJm44VRp6zQ">Wind (Angin) - Akeboshi</a></li>
+    <li>♂️ <b>Pronouns:</b> He/Him (Laki-laki).</li>
+  </ul>
+
+  <p align="left">
+    <a href="https://www.youtube.com/@Panggil_AKMAL">
+      <img src="https://img.shields.io/badge/YouTube-Panggil__AKMAL-red?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
   </p>
+</div>
 
-  <br>
+<br clear="all"> ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Panggil_AKMAL&show_icons=true&theme=radical" alt="Statistik Akmal" />
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
 
-  <br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-  <h2>📫 Hubungi Saya</h2>
+<br>
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>Github Stats</strong></h3>
+      <a href="https://github.com/Panggil_AKMAL">
+        <img src="https://github-readme-stats.vercel.app/api?username=Panggil_AKMAL&show_icons=true&theme=radical&bg_color=1a1b27&title_color=79ff97&text_color=ffffff&hide_border=true" alt="Akmal's Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/Panggil_AKMAL">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panggil_AKMAL&theme=radical&background=1a1b27&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=79ff97&currStreakNum=ffffff&hide_border=true" alt="Akmal's Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panggil_AKMAL&bg_color=1a1b27&color=ffffff&line=79ff97&point=ffeb95&area=true&hide_border=true">
+</div>
+
+<br>
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
+<div align="center">
   <p>Berikut adalah sosial media yang paling sering saya gunakan >~< xoxoxo</p>
   
   <a href="https://instagram.com/m.akmal_al_abdilah?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
-  <br><br>
-
-  <h2>Terima Kasih Telah Membaca!!!</h2>
-  <img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif" width="100">
   
-  <hr>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b6bc-46e5-82e4-cc7595eb483b.gif" width="100%">
-
+  <a href="https://www.youtube.com/@Panggil_AKMAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
 </div>
+
+<br><br>
+
+<h2 align="center">Thanks For Reading!!!</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/kBxfC2J4d8u60H2q9A/giphy.gif" width="300">
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
