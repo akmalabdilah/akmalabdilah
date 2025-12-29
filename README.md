@@ -41,45 +41,44 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RE_Engine-gray?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dunia_Engine-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 <br>
 
-<h2 align="center">🎥 Video Unggulan / Demo</h2>
+<h2 align="center">🎥 Video </h2>
 <div align="center">
-  <video src="https://drive.google.com/file/d/1ta7Q2P6zW6rhRS7E5hbHN1W5-MY1rvR6/view?usp=sharing" controls="controls" width="80%">
-  </video>
-  <p><i>Cuplikan Proyek / Gameplay</i></p>
+  <a href="https://drive.google.com/file/d/1ta7Q2P6zW6rhRS7E5hbHN1W5-MY1rvR6/view?usp=sharing" target="_blank">
+    <img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" width="80%" style="border-radius: 10px;" alt="Klik untuk Menonton">
+  </a>
+  <p><i>(Klik animasi di atas untuk menonton video)</i></p>
+</div>
 </div>
 <br>
 
-<h2 align="center">📊 Statistik GitHub 📊</h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>Statistik Umum</strong></h3>
-      <a href="https://github.com/Panggil_AKMAL">
-        <img src="https://github-readme-stats.vercel.app/api?username=Panggil_AKMAL&show_icons=true&theme=radical&bg_color=1a1b27&title_color=79ff97&text_color=ffffff&hide_border=true" alt="Akmal's Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Statistik Beruntun (Streak)</strong></h3>
-      <a href="https://github.com/Panggil_AKMAL">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panggil_AKMAL&theme=radical&background=1a1b27&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=79ff97&currStreakNum=ffffff&hide_border=true" alt="Akmal's Streak" />
-      </a>
-    </td>
+    
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">📈 Grafik Kontribusi</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panggil_AKMAL&bg_color=1a1b27&color=ffffff&line=79ff97&point=ffeb95&area=true&hide_border=true">
-</div>
+
 
 <br>
 
