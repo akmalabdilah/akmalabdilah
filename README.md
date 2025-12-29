@@ -1,59 +1,66 @@
-<body>
-  <center>
-<h1 align="center"> Welcome To Github My Profile </h1>
 <div align="center">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
+
+  <h1 align="center">Selamat Datang di Profil Github Saya</h1>
+
+  <a href="https://www.youtube.com/watch?v=oJm44VRp6zQ">
+    <img src="https://img.shields.io/badge/Now%20Playing-Wind%20(Angin)-ff69b4?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <br><br>
+
+  <img src="https://media.giphy.com/media/kBxfC2J4d8u60H2q9A/giphy.gif" width="400">
+
+  <br><br>
+
+  <h2>👾 Tentang Saya</h2>
   
-<p><a href="https://www.youtube.com/watch?v=oJm44VRp6zQ">- Wind (Angin)</a><p>
-  
-</div>
-    <div align="center">
-<img src="https://media.istockphoto.com/photos/hacker-standing-alone-in-dark-room-picture-id639282412?k=6&m=639282412&s=612x612&w=0&h=CR1srHcR6N4hJwTLN9Qz1a63NOPS5cAMHT4hvGxkcyY=">
-      </div>
-<div>
-<h2 align="center">  About Me</h2>
-<br>
-<li>
- <b>Name:</b> M. AKMAL AL ABDILAH</li>
-<li>
-<b>Loves:</b> Anime, Manga, Manhua, Manhwa, Pemograman, and Modder.
-</li>
-<li>
-<b>Gender:</b> he/him/Male ♂️
-</li>
-<li>
-<b>Youtube:</b> https://www.youtube.com/@Panggil_AKMAL
-</li>
-<li>
-<b>Hobbys:</b> Graphic Design, Web Development, Reading manga books, and Modder.
-</li>
-<br>
-</div>
-<div>
-<h2 align="center"> Knowledge </h2>
- <br>
-<p>
-</div>
-<div>
+  <div align="left">
+    <ul>
+      <li><b>Nama:</b> M. AKMAL AL ABDILAH</li>
+      <li><b>Favorit:</b> Anime, Manga, Manhua, Manhwa, Pemrograman, dan Modder.</li>
+      <li><b>Jenis Kelamin:</b> Laki-laki (He/Him) ♂️</li>
+      <li><b>Youtube:</b> <a href="https://www.youtube.com/@Panggil_AKMAL">@Panggil_AKMAL</a></li>
+      <li><b>Hobi:</b> Desain Grafis, Pengembangan Web, Membaca Manga, dan Modder.</li>
+    </ul>
+  </div>
+
   <br>
-<p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  <br><br>
-Saya juga suka Membaca dan Menonton anime sampai berjam-jam, saya juga suka dengan pemograman terutama web dan sedang mempelajari berbagai bahasa pemograman menggunakan Visual Studio Code dan Youtube.
-</p>
-<br>
-<h2 align="center">Contatct Me</h2>
-<br>
-<p align="center">Here are some of my <br>
-  most used social things >~< xoxoxo</p>
-<p align="center"><a href="https://instagram.com/m.akmal_al_abdilah?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a></a></p>
+
+  <h2>🛠️ Keahlian & Pengetahuan</h2>
+
+  <p>
+    Saya juga suka membaca dan menonton anime sampai berjam-jam. Saya menyukai pemrograman terutama web dan sedang mempelajari berbagai bahasa pemrograman menggunakan Visual Studio Code dan Youtube.
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  </p>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Panggil_AKMAL&show_icons=true&theme=radical" alt="Statistik Akmal" />
+
+  <br><br>
+
+  <h2>📫 Hubungi Saya</h2>
+  <p>Berikut adalah sosial media yang paling sering saya gunakan >~< xoxoxo</p>
+  
+  <a href="https://instagram.com/m.akmal_al_abdilah?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+
+  <br><br>
+
+  <h2>Terima Kasih Telah Membaca!!!</h2>
+  <img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif" width="100">
+  
+  <hr>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b6bc-46e5-82e4-cc7595eb483b.gif" width="100%">
+
 </div>
-<br>
-<div>
-<h2 align="center">Thanks For Reading!!!</h2>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
